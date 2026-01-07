@@ -1,2 +1,6 @@
 This is me here.
+<<<<<<< HEAD
 This is edited by shivam.
+=======
+I am writing it again.
+>>>>>>> 89fec3f (Another)
